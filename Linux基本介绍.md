@@ -2,7 +2,7 @@
 ---
 ## 1. Linux概述
 + 1.1 Linux是一个开源、免费的操作系统，其稳定性、安全性、处理多并发的能力都被界所认可，许多企业级项目都会部署到Linux/Unix系统上
-+ 1.2 常见Linux发行版本：**Ubuntu**、**RedHat**、**CentOS**、**Debian****SUSE**、**Fedora**...
++ 1.2 常见Linux发行版本：**Ubuntu**、**RedHat**、**CentOS**、**Debian**、**SUSE**、**Fedora**...
 + 1.3 Linux之父是*Linus Torvalds*（Linux v0.0.1）
 ---
 ## 2. Linux和Unix的关系
