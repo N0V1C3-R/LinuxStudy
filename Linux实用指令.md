@@ -245,7 +245,9 @@
   >+ 功能描述<br>
   打包指令，最后打包成*.tar.gz文件
   >+ 基本语法<br>
-  `tar [选项] filename.tar.gz 文件/目录`
+  `tar [选项] filename.tar.gz 文件/目录`<br>
+  `tar -zcvf filename.tar.gz 文件/目录`&emsp;压缩并打包文件<br>
+  `tar -zxvf filename.tar.gz 文件/目录 -C 指定路径`&emsp;解压文件到指定路径
   >+ 常用选项<br>
   *-c*：产生.tar打包文件<br>
   *-v*：显示详细信息<br>
