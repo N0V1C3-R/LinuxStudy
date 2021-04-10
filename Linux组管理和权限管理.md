@@ -38,11 +38,11 @@
     **-rw-r--r--. 1 root root  103 4月   8 12:02 hello.java**  
     第一列0-9位说明：  
     &emsp;1.第0位确定文件的类型（**d**，**-**，**l**，**c**，**b**）  
-    &emsp;&emsp;**-**是文件  
-    &emsp;&emsp;**l**是链接，相当于Windows快捷方式  
-    &emsp;&emsp;**d**是目录，相当于Windows文件夹  
-    &emsp;&emsp;**c**是字符设备文件，比如鼠标、键盘等  
-    &emsp;&emsp;**b**是块设备，比如硬盘  
+    &emsp;&emsp;**-**（文件）  
+    &emsp;&emsp;**l**（链接），相当于Windows快捷方式  
+    &emsp;&emsp;**d**（目录），相当于Windows文件夹  
+    &emsp;&emsp;**c**（字符设备文件），比如鼠标、键盘等  
+    &emsp;&emsp;**b**（块设备），比如硬盘  
     &emsp;2.第1-3位确定所有者拥有的文件权限  
     &emsp;3.第4-6位确定所属组拥有的文件权限  
     &emsp;4.第7-9位确定其他组拥有的文件权限  
